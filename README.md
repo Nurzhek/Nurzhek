@@ -1,4 +1,6 @@
 ### Hi there 👋
+Undergraduate Top-20 Computer Science Freshman student, currently enriching my knowledge and skills at Nazarbayev University with experience working across the Software Engineering. Interested in development, video games and studying.
+
 
 <!--
 **Nurzhek/Nurzhek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
