@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Nurzhan and I am Undergraduate Computer Science Sophomore student, currently enriching my knowledge and skills at Nazarbayev University with experience working across the Software Engineering. Interested in development, video games and studying.
+My name is Nurzhan and I am Undergraduate Computer Science Sophomore student, currently enriching my knowledge and skills at Nazarbayev University with experience working across the AI/ML. 
 
 
 
