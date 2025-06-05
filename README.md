@@ -4,5 +4,5 @@ My name is Nurzhan and I am Undergraduate Computer Science Sophomore student, cu
 
 
 - 🔭 I’m currently working on new projects
-- 🌱 I’m currently learning machine learning and big data
+- 🌱 I’m currently learning Natural Language Processing 
 - 😄 Pronouns: he/him
